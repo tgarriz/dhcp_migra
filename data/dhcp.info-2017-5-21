@@ -1,0 +1,4 @@
+INSERT INTO pl_net_negociaron_dhcp VALUES ('10.149.10.7','48:4d:7e:da:79:8b','2017-05-20');
+INSERT INTO pl_net_negociaron_dhcp VALUES ('10.149.10.17','40:b0:34:20:61:93','2017-05-20');
+INSERT INTO pl_net_negociaron_dhcp VALUES ('10.149.10.7','48:4d:7e:da:79:8b','2017-05-20');
+INSERT INTO pl_net_negociaron_dhcp VALUES ('10.149.10.17','40:b0:34:20:61:93','2017-05-20');

@@ -1,0 +1,103 @@
+config system dhcp server
+edit 1
+config reserved-address
+edit 1
+	set ip 10.149.10.1
+	set mac	48:4d:7e:da:79:f2
+	next
+edit 2
+	set ip 10.149.10.2
+	set mac	48:4d:7e:d8:b0:7c
+	next
+edit 3
+	set ip 10.149.10.3
+	set mac	48:4d:7e:da:7c:71
+	next
+edit 4
+	set ip 10.149.10.4
+	set mac	00:25:b3:0c:90:ad
+	next
+edit 5
+	set ip 10.149.10.5
+	set mac	48:4d:7e:da:78:bd
+	next
+edit 6
+	set ip 10.149.10.6
+	set mac	48:4d:7e:da:b8:d1
+	next
+edit 7
+	set ip 10.149.10.7
+	set mac	48:4d:7e:da:79:8b
+	next
+edit 8
+	set ip 10.149.10.8
+	set mac	48:4d:7e:d8:bc:97
+	next
+edit 9
+	set ip 10.149.10.9
+	set mac	48:4d:7e:da:7c:d0
+	next
+edit 10
+	set ip 10.149.10.10
+	set mac	48:4d:7e:da:7b:a1
+	next
+edit 11
+	set ip 10.149.10.11
+	set mac	48:4d:7e:da:79:5e
+	next
+edit 12
+	set ip 10.149.10.12
+	set mac	48:4d:7e:de:32:02
+	next
+edit 13
+	set ip 10.149.10.13
+	set mac	48:4d:7e:de:31:f7
+	next
+edit 14
+	set ip 10.149.10.14
+	set mac	48:4d:7e:da:7d:97
+	next
+edit 16
+	set ip 10.149.10.16
+	set mac	00:0f:20:c6:9c:d7
+	next
+edit 17
+	set ip 10.149.10.17
+	set mac	40:b0:34:20:61:93
+	next
+edit 18
+	set ip 10.149.10.18
+	set mac	98:e7:f4:ff:39:0c
+	next
+edit 102
+	set ip 10.149.10.102
+	set mac	00:00:aa:85:77:d3
+	next
+edit 104
+	set ip 10.149.10.104
+	set mac	00:0f:20:c6:8c:6d
+	next
+edit 105
+	set ip 10.149.10.105
+	set mac	00:10:83:55:e8:f6
+	next
+edit 108
+	set ip 10.149.10.108
+	set mac	00:23:7d:44:9b:7e
+	next
+edit 109
+	set ip 10.149.10.109
+	set mac	00:0f:20:c6:9c:dc
+	next
+edit 110
+	set ip 10.149.10.110
+	set mac	00:21:b7:b6:ca:5e
+	next
+edit 245
+	set ip 10.149.10.245
+	set mac	20:cf:30:e1:4e:44
+	next
+edit 253
+	set ip 10.149.10.253
+	set mac	b8:27:eb:0e:b3:e7
+	end
